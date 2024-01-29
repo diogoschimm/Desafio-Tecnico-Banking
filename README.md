@@ -3,7 +3,11 @@
 Sistema bancário para gerenciamento de contas e operações financeiras de um terminal bancário (ATM)
 
 ## Requisitos
-Criar um backend que entregue os seguintes endpoints de um caixa eletrônico:
+
+Criar um caixa eletrônico
+
+## Backend
+Criar um backend que entregue os seguintes endpoints de um caixa eletrônico em C# .NetCore:
 
 - Uma conta contem numero, agencia e tipo (corrente, poupança)
 - Deposito
@@ -30,3 +34,14 @@ Criar um backend que entregue os seguintes endpoints de um caixa eletrônico:
   - Extrato: **R$ 3,82**
   - Consultar Saldo: **R$ 1,37**
 - As operações com CUSTO devem ser debitadas tendo saldo ou não
+
+
+## FrontEnd
+
+Criar a interface usando umas das seguintes tecnologias:
+- ReactJS
+- Asp.NET MVC
+- Asp.NET WebForms
+
+  
+
